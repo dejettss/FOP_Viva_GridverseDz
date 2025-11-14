@@ -14,9 +14,9 @@ public class V01Q03 {
      Scanner input = new Scanner(System.in);
         
         System.out.print("Please enter the number of inquaries: ");
-        int Inq = input.nextInt();
+        int T = input.nextInt();
         
-        for(int d=1; d<=Inq;d++){
+        for(int d=1; d<=T;d++){
              
         System.out.print("Please enter the Height: ");
         int H = input.nextInt();
